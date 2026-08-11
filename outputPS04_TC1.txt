@@ -1,0 +1,313 @@
+====================Turn 1========================
+Player : A (AI)
+Move Selected : (1,6)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 2,545
+Heuristic Score : 63.64
+Execution Time : 2000 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  . . . . . . .
+ 1   . . . . . . 1
+ 2    . . . . . . .
+ 3     . . . . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 2========================
+Player : B (Human)
+Move Entered : (3,0)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  . . . . . . .
+ 1   . . . . . . 1
+ 2    . . . . . . .
+ 3     2 . . . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 3========================
+Player : A (AI)
+Move Selected : (3,2)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 3,366
+Heuristic Score : 64.49
+Execution Time : 2001 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  . . . . . . .
+ 1   . . . . . . 1
+ 2    . . . . . . .
+ 3     2 . 1 . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 4========================
+Player : B (Human)
+Move Entered : (3,1)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  . . . . . . .
+ 1   . . . . . . 1
+ 2    . . . . . . .
+ 3     2 2 1 . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 5========================
+Player : A (AI)
+Move Selected : (2,3)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 3,267
+Heuristic Score : 70.49
+Execution Time : 2000 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  . . . . . . .
+ 1   . . . . . . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 6========================
+Player : B (Human)
+Move Entered : (0,0)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . . . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 7========================
+Player : A (AI)
+Move Selected : (1,4)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 3,580
+Heuristic Score : 75.74
+Execution Time : 2025 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 . . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 8========================
+Player : B (Human)
+Move Entered : (3,3)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 . . .
+ 4      . . . . . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 9========================
+Player : A (AI)
+Move Selected : (4,3)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 3,592
+Heuristic Score : 77.78
+Execution Time : 2000 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 . . .
+ 4      . . . 1 . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 10=======================
+Player : B (Human)
+Move Entered : (3,4)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 2 . .
+ 4      . . . 1 . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 11=======================
+Player : A (AI)
+Move Selected : (4,2)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 3,858
+Heuristic Score : 83.81
+Execution Time : 2000 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 2 . .
+ 4      . . 1 1 . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 12=======================
+Player : B (Human)
+Move Entered : (3,5)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . . . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 2 2 .
+ 4      . . 1 1 . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 13=======================
+Player : A (AI)
+Move Selected : (0,4)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 4,442
+Heuristic Score : 91.50
+Execution Time : 2000 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . 1 . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 2 2 .
+ 4      . . 1 1 . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 14=======================
+Player : B (Human)
+Move Entered : (3,6)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . 1 . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 2 2 2
+ 4      . . 1 1 . . .
+ 5       . . . . . . .
+ 6        . . . . . . .
+
+====================Turn 15=======================
+Player : A (AI)
+Move Selected : (5,3)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 3,857
+Heuristic Score : 97.19
+Execution Time : 2001 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . 1 . .
+ 1   . . . . 1 . 1
+ 2    . . . 1 . . .
+ 3     2 2 1 2 2 2 2
+ 4      . . 1 1 . . .
+ 5       . . . 1 . . .
+ 6        . . . . . . .
+
+====================Turn 16=======================
+Player : B (Human)
+Move Entered : (2,0)
+Move Validation : VALID
+Execution Time : 0 ms
+Game Status : CONTINUE
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . 1 . .
+ 1   . . . . 1 . 1
+ 2    2 . . 1 . . .
+ 3     2 2 1 2 2 2 2
+ 4      . . 1 1 . . .
+ 5       . . . 1 . . .
+ 6        . . . . . . .
+
+====================Turn 17=======================
+Player : A (AI)
+Move Selected : (6,3)
+Search Algorithm : MCTS with UCT
+Search Depth : 3
+Nodes Expanded : 4,652
+Heuristic Score : +INF
+Execution Time : 2000 ms
+Game Status : TERMINAL
+Terminal State : YES
+Winner : Player A
+Winning Path (0,4) -> (1,4) -> (2,3) -> (3,2) -> (4,2) -> (4,3) -> (5,3) -> (6,3)
+Current Board
+    0  1  2  3  4  5  6
+ 0  2 . . . 1 . .
+ 1   . . . . 1 . 1
+ 2    2 . . 1 . . .
+ 3     2 2 1 2 2 2 2
+ 4      . . 1 1 . . .
+ 5       . . . 1 . . .
+ 6        . . . 1 . . .
+
+============================================================ GAME OVER ============================================================
+Winner : Player A
+Total Turns : 17
+Total AI Moves : 9
+Total Human Moves : 8
+Average Search Depth : 3.0
+Average Nodes Expanded : 3,684
+Average AI Move Time : 2003 ms
+Maximum Search Depth : 3
+Maximum Nodes Expanded : 4,652
+Game Result : PLAYER_A_WINS
